@@ -1,7 +1,7 @@
 package org.sssg.soft.jgenpassword;
 
 /**
- * Hello world!
+ * jgenpassword app class
  * 
  */
 public class App {
